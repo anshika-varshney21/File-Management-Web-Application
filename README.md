@@ -62,16 +62,23 @@ Navigate to the following URL in your browser: http://localhost:3000
 
 
 # Dependencies
-Express - Web framework for Node.js
-EJS - Embedded JavaScript templating
-Built-in Node.js modules: fs, path
+- Express - Web framework for Node.js
+  
+- EJS - Embedded JavaScript templating
+  
+- Built-in Node.js modules: fs, path
 
 # API Endpoints
 GET / - View all files
+
 GET /file/:filename - View a specific file's contents
+
 GET /edit/:filename - Edit a file's name
+
 POST /edit - Process file name change
+
 POST /delete - Delete a file
+
 POST /create - Create a new file
 
 # Screenshots
