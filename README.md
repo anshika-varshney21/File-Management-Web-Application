@@ -81,7 +81,7 @@ POST /delete - Delete a file
 
 POST /create - Create a new file
 
-# Screenshots
+# Screenshot
 ![image](https://github.com/user-attachments/assets/37df8183-b280-4b25-b65f-c38bb4b97c69)
 
 
