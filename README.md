@@ -40,21 +40,22 @@ Follow these steps to set up the project locally:
 
   ```bash
   node index.js
+``` 
+### 🌐 Step 2: Open in Browser
 
-🌐 Step 2: Open in Browser
 Navigate to the following URL in your browser: http://localhost:3000
 
 # Use the web interface to:
 
-View all files
+- View all files
 
-Create new files
+- Create new files
 
-View file contents
+- View file contents
 
-Edit file names
+- Edit file names
 
-Delete files
+- Delete files
 
 # Project Structure
 ![image](https://github.com/user-attachments/assets/d2032bf8-96dd-4f27-a33c-b093c2257edb)
